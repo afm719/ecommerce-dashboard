@@ -144,6 +144,7 @@ Google Sheets.
 | `app.py` | The dashboard application |
 | `dummy_data.csv` | 20 sample orders used in Demo Mode |
 | `requirements.txt` | The exact, tested versions of the libraries the dashboard needs |
+| `.streamlit/config.toml` | Pre-configured settings: starts without any setup questions and sends no usage statistics (hidden folder on Mac/Linux — leave it in place) |
 | `README.md` | This guide |
 
 **Requirements:** Python 3.10 – 3.13 on Windows, macOS or Linux.

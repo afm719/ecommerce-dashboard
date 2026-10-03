@@ -1,0 +1,6 @@
+# Plug & Play defaults: start straight away, no prompts, nothing sent online.
+[server]
+showEmailPrompt = false
+
+[browser]
+gatherUsageStats = false
